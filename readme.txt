@@ -1,2 +1,2 @@
 creat a file named readme.txt
-add some contents in server
+add some contents in readme.txt
